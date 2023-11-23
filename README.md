@@ -1,6 +1,6 @@
 # Rəqəmsal İmza Aləti Docs
 
-## Ümumi açıklama
+## Ümumi açıqlama
 
 Rəqəmsal İmza Aləti, DOCX fayllarında rəqəmsal imza yaratmağa və doğrulamağa imkan verən Python skriptidir. Bu alət rəqəmsal imza yaratmaq və doğrulamaq üçün SHA-256 hash funksiyasından istifadə edir və əlavə olaraqda tarixi əlavə edir.
 
